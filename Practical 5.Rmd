@@ -1,0 +1,12 @@
+---
+title: "Practical 5"
+description: "Fortgeschrittene Statistische Software für NF"
+author:
+  - name: Jan Simson
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
