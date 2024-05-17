@@ -10,3 +10,10 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+Question A 🍻 Liters of beer [^1]
+7,850,200
+Question B 🏘️ People in Karlsruhe
+313,092
+Question C 🌟 % believing in Astrology [^2]
+29%
